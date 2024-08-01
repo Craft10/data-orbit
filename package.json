@@ -1,0 +1,16 @@
+{
+  "name": "data-orbit Node",
+  "version": "1.0.0",
+  "description": "DataOrbit es una biblioteca para gestionar bases de datos JSON de forma intuitiva y eficiente en Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "EquipoCRAFT",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "crypto": "^1.0.1"
+  }
+}
